@@ -21,7 +21,7 @@ Este proyecto fue desarrollado durante el semestre 2022-1 de mi carrera universi
 This project was developed during the 2022-1 semester of my university studies. I actively contributed to the logic, structure, and programming of the system, collaborating closely with my team.
 <br>
 <br>
--Xavier Andrés De La Hoz Salas.
--Enzo Junior De Leon Pineda.
--Vanessa Paola Romero Domínguez.
--Jaider Jose Gil Guzman.
+-Xavier Andrés De La Hoz Salas.<br>
+-Enzo Junior De Leon Pineda.<br>
+-Vanessa Paola Romero Domínguez.<br>
+-Jaider Jose Gil Guzman.<br>
