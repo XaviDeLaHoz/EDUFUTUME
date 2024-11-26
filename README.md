@@ -13,16 +13,15 @@ The project's program was developed in NetBeans 8.2 JDK-8u111, using an Oracle d
 # Créditos
 {Español}
 <br>
-Este proyecto fue desarrollado durante el semestre 2021-2 de mi carrera universitaria. Participé activamente en la lógica, la estructuración y la programación del sistema, trabajando en colaboración con mi equipo.
+Este proyecto fue desarrollado durante el semestre 2022-1 de mi carrera universitaria. Participé activamente en la lógica, la estructuración y la programación del sistema, trabajando en colaboración con mi equipo.
 <br>
 <br>
 {English}
 <br>
-This project was developed during the 2021-2 semester of my university studies. I actively contributed to the logic, structure, and programming of the system, collaborating closely with my team.
+This project was developed during the 2022-1 semester of my university studies. I actively contributed to the logic, structure, and programming of the system, collaborating closely with my team.
 <br>
 <br>
--Xavier Andrés De La Hoz Salas<br>
--Enzo Junior De Leon Pineda<br>
--Andrés David Olea Guzman<br>
--Vanessa Paola Romero Domínguez<br>
--Me
+-Xavier Andrés De La Hoz Salas.
+-Enzo Junior De Leon Pineda.
+-Vanessa Paola Romero Domínguez.
+-Jaider Jose Gil Guzman.
