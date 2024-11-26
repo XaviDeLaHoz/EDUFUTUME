@@ -1,23 +1,28 @@
 # EDUFUTUME
-Proyecto de promoción de educación inclusiva y equitativa para reducir desigualdades, mejorar el bienestar y fomentar soluciones sostenibles.
-
-
--Español: 
-El proyecto pone de relieve la relevancia de la educación como pilar fundamental para alcanzar una vida digna, estable y sostenible. Destaca que garantizar una educación inclusiva y equitativa no solo mejora la calidad de vida, sino que también fomenta la creación de soluciones innovadoras frente a desafíos globales.
-Estudios recientes señalan barreras significativas que enfrentan niños, niñas y adolescentes, como la precariedad económica y la falta de acceso a transporte, las cuales dificultan su acceso a recursos educativos esenciales. Esto perpetúa la desigualdad de oportunidades y afecta negativamente su bienestar psicosocial.
-El desarrollo del programa del proyecto se llevó a cabo utilizando NetBeans 8.2 junto con JDK-8u111. Se empleó una base de datos Oracle, y la conexión con esta se realizó mediante el controlador ojdbc6-11.2.0.3.
-
--Inglés:
-The project highlights the importance of education as a fundamental pillar for achieving a dignified, stable, and sustainable life. It emphasizes that ensuring inclusive and equitable education not only improves quality of life but also fosters the creation of innovative solutions to global challenges.
-Recent studies identify significant barriers faced by children and adolescents, such as economic hardship and lack of access to transportation, which hinder their ability to access essential educational resources. This perpetuates inequality of opportunity and negatively impacts their psychosocial well-being.
-The project’s program was developed using NetBeans 8.2 along with JDK-8u111. An Oracle database was used, and the connection was made through the ojdbc6-11.2.0.3 driver.
+{Español}
+<br>
+El proyecto se centra en la importancia de la educación como base para una vida digna, estable y sostenible, resaltando que el acceso a una educación inclusiva y equitativa mejora la calidad de vida y permite desarrollar soluciones innovadoras para grandes problemas globales. Las investigaciones actuales identifican obstáculos que enfrentan niños, niñas y adolescentes, como dificultades económicas y falta de transporte, que impiden su acceso a recursos educativos necesarios, generando desigualdad de oportunidades y afectando su bienestar psicosocial.
+el programa del proyecto se realizó en NetBeans 8.2 JDK-8u111, se utilizó base de datos oracle y la conexión con esta se realiza mediante el driver ojdbc6-11.2.0.3.
+<br>
+<br>
+{English}
+<br>
+The project focuses on the importance of education as the foundation for a dignified, stable, and sustainable life, emphasizing that access to inclusive and equitable education improves quality of life and enables the development of innovative solutions to major global problems. Current research identifies obstacles faced by children and adolescents, such as economic difficulties and lack of transportation, which hinder their access to necessary educational resources, creating inequality in opportunities and affecting their psychosocial well-being.
+The project's program was developed in NetBeans 8.2 JDK-8u111, using an Oracle database, with the connection established via the driver ojdbc6-11.2.0.3.
 
 # Créditos
--Espanoñ: Este proyecto fue desarrollado durante el semestre 2022-1 de mi carrera universitaria. Participé activamente en la lógica, la estructuración y la programación del sistema, trabajando en colaboración con mi equipo.
-
--Inglés: This project was developed during the 2022-1 semester of my university studies. I actively contributed to the logic, structure, and programming of the system, collaborating closely with my team.
-
--Xavier Andrés De La Hoz Salas. 
--Enzo Junior De Leon Pineda. 
--Jaider Jose Gil Guzman. 
--Vanessa Paola Romero Domínguez.
+{Español}
+<br>
+Este proyecto fue realizado el primer semestre (2022-1) de mi carrera universitaria. colaboré en su momento en gran parte de la lógica y el código del programa junto con mis compañeros de clases:
+<br>
+<br>
+{English}
+<br>
+This project was carried out in the first semester (2022-1) of my university career. At that time, I collaborated significantly on the logic and the code of the program along with my classmates:
+<br>
+<br>
+-Xavier Andrés De La Hoz Salas<br>
+-Enzo Junior De Leon Pineda<br>
+-Andrés David Olea Guzman<br>
+-Vanessa Paola Romero Domínguez<br>
+-Me
