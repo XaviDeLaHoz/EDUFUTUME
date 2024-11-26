@@ -1,6 +1,7 @@
 # EDUFUTUME
 Proyecto de promoción de educación inclusiva y equitativa para reducir desigualdades, mejorar el bienestar y fomentar soluciones sostenibles.
 
+
 -Español: 
 El proyecto pone de relieve la relevancia de la educación como pilar fundamental para alcanzar una vida digna, estable y sostenible. Destaca que garantizar una educación inclusiva y equitativa no solo mejora la calidad de vida, sino que también fomenta la creación de soluciones innovadoras frente a desafíos globales.
 Estudios recientes señalan barreras significativas que enfrentan niños, niñas y adolescentes, como la precariedad económica y la falta de acceso a transporte, las cuales dificultan su acceso a recursos educativos esenciales. Esto perpetúa la desigualdad de oportunidades y afecta negativamente su bienestar psicosocial.
